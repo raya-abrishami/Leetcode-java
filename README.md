@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raya-abrishami/Leetcode-java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/2747-count-zero-request-servers/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/1882-process-tasks-using-servers/) | Medium |
 <!---LeetCode Topics End-->
