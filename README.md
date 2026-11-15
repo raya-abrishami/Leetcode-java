@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/raya-abrishami/Leetcode-java/tree/main/0001-two-sum/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raya-abrishami/Leetcode-java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/raya-abrishami/Leetcode-java/tree/main/0001-two-sum/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
