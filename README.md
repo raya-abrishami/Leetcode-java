@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/raya-abrishami/Leetcode-java/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/raya-abrishami/Leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raya-abrishami/Leetcode-java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/raya-abrishami/Leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Two Pointers
@@ -39,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1882-process-tasks-using-servers](https://github.com/raya-abrishami/Leetcode-java/tree/main/1882-process-tasks-using-servers/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/raya-abrishami/Leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
